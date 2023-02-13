@@ -27,7 +27,7 @@ test2() ->
         io:format("~p~n",["this is a print"])
     end.
 
-% of运营
+% of运用
 test3() ->
     try 
         1-1
